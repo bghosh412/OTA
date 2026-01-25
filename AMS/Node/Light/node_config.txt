@@ -5,7 +5,7 @@
 # Node Identity (0 = unmapped, waiting for hub provisioning)
 NODE_TANK_ID=0
 NODE_NAME=UnmappedLight
-FIRMWARE_VERSION=2
+FIRMWARE_VERSION=3
 
 # ESP-NOW Settings
 ESPNOW_CHANNEL=11
