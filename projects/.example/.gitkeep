@@ -1,0 +1,8 @@
+# Example project folder structure
+# 
+# When creating a new project OTA folder, include:
+# - firmware.bin: The compiled firmware binary
+# - version.json: Version information and metadata
+# - manifest.json: OTA manifest with file checksums (optional)
+# 
+# Copy this folder and rename it with your project name.
